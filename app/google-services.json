@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "917397042329",
+    "firebase_url": "https://tpdmu3proyecto1jesusreynoso.firebaseio.com",
+    "project_id": "tpdmu3proyecto1jesusreynoso",
+    "storage_bucket": "tpdmu3proyecto1jesusreynoso.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917397042329:android:e36aa3fb6e5ac49a",
+        "android_client_info": {
+          "package_name": "reynosojesus.ittepic.edu.tpdm_u3_practica1_jesusreynoso"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgKL-5Z1im33tofLSV9y2j8Y2feBcMGC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917397042329-33hi3sbffrttgjdmial3qacpo7ad8bca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
